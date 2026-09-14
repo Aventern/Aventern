@@ -1,0 +1,38 @@
+<div align="center">
+
+<!-- タイピングアニメーションのヘッダー -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aventern+%F0%9F%91%8B;Welcome+to+my+profile!" alt="Typing SVG" />
+
+</div>
+
+## 🙋 About Me
+
+- 🎓 Student at Keio University
+- 🏠 Running a homelab with Proxmox
+- 🌱 Currently learning: <!-- 学んでいることを書く -->
+- 💬 Ask me about: <!-- 得意なこと -->
+- 📫 Reach me: <!-- SNSや連絡先(任意) -->
+
+## 🛠️ Tech Stack
+
+<!-- 使う技術に合わせて自由に追加/削除してください。バッジは https://shields.io で作れます -->
+<p>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aventern&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aventern&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<!--
+おまけ: プロフィール閲覧数カウンター(欲しければコメントを外す)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aventern&color=blueviolet&style=flat-square" />
+</p>
+-->
