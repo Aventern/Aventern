@@ -20,7 +20,7 @@ anchovy@sfc:~$ uptime
  still running, no planned downtime
 ```
 
-## 🛠️ Tech Stack
+## `$ ls skills/`
 
 <!-- 使う技術に合わせて自由に追加/削除してください。バッジは https://shields.io で作れます -->
 <p>
@@ -33,14 +33,14 @@ anchovy@sfc:~$ uptime
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+## `$ git log --stat`
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-ten-beta-4zpx5pmv17.vercel.app/api?username=Aventern&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats-ten-beta-4zpx5pmv17.vercel.app/api/top-langs/?username=Aventern&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🐍 Contribution Snake
+## `$ ./snake --eat contributions`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aventern/Aventern/output/github-snake-dark.svg" />
