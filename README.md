@@ -5,13 +5,20 @@
 
 </div>
 
-## 🙋 About Me
+## `$ whoami`
 
-- 🎓 Student at Keio University
-- 🏠 Running a homelab with Proxmox
-- 🌱 Currently learning: ML infrastructure with **SkyPilot** & **Kubernetes**
-- 💬 Ask me about: **self-hosting** — running your own services on your own hardware
-- 📫 Reach me: [anchovy@sfc.wide.ad.jp](mailto:anchovy@sfc.wide.ad.jp)
+```console
+anchovy@sfc:~$ cat about.txt
+
+  uni       Keio University SFC / WIDE Project
+  homelab   Proxmox VE — VyOS, Tailscale, NAS
+  learning  SkyPilot / Kubernetes / ML infrastructure
+  ask me    self-hosting — running your own services on your own hardware
+  mail      anchovy@sfc.wide.ad.jp
+
+anchovy@sfc:~$ uptime
+ still running, no planned downtime
+```
 
 ## 🛠️ Tech Stack
 
