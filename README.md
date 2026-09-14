@@ -33,6 +33,16 @@ anchovy@wide:~$ uptime
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+## `$ ls projects/`
+
+<p align="center">
+  <a href="https://github.com/Aventern/Anchovy-OS"><img width="48%" src="https://github-readme-stats-ten-beta-4zpx5pmv17.vercel.app/api/pin/?username=Aventern&repo=Anchovy-OS&theme=tokyonight&hide_border=true" alt="Anchovy-OS" /></a>
+  <a href="https://github.com/Aventern/LLEP"><img width="48%" src="https://github-readme-stats-ten-beta-4zpx5pmv17.vercel.app/api/pin/?username=Aventern&repo=LLEP&theme=tokyonight&hide_border=true" alt="LLEP" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Aventern/del4Hackathon"><img width="48%" src="https://github-readme-stats-ten-beta-4zpx5pmv17.vercel.app/api/pin/?username=Aventern&repo=del4Hackathon&theme=tokyonight&hide_border=true" alt="del4Hackathon" /></a>
+</p>
+
 ## `$ git log --stat`
 
 <p align="center">
