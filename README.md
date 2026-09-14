@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- タイピングアニメーションのヘッダー -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&color=7AA2F7&lines=anchovy%40sfc%3A~%24+Hi%2C+I'm+Anchovy+%F0%9F%91%8B;anchovy%40sfc%3A~%24+welcome+to+my+profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&color=7AA2F7&lines=anchovy%40sfc%3A~%24+Hi%2C+I'm+Anchovy+%F0%9F%91%8B;anchovy%40wide%3A~%24+welcome+to+my+profile!" alt="Typing SVG" />
 
 </div>
 
 ## `$ whoami`
 
 ```console
-anchovy@sfc:~$ cat about.txt
+anchovy@wide:~$ cat about.txt
 
-  uni       Keio University SFC / WIDE Project
+  uni       Keio University / WIDE Project
   homelab   Proxmox VE — VyOS, Tailscale, NAS
   learning  SkyPilot / Kubernetes / ML infrastructure
   ask me    self-hosting — running your own services on your own hardware
   mail      anchovy@sfc.wide.ad.jp
 
-anchovy@sfc:~$ uptime
+anchovy@wide:~$ uptime
  still running, no planned downtime
 ```
 
