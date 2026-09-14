@@ -30,6 +30,13 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aventern&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aventern/Aventern/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Aventern/Aventern/output/github-snake.svg" />
+</picture>
+
 <!--
 おまけ: プロフィール閲覧数カウンター(欲しければコメントを外す)
 <p align="center">
