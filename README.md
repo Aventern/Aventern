@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- タイピングアニメーションのヘッダー -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aventern+%F0%9F%91%8B;Welcome+to+my+profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anchovy+%F0%9F%91%8B;Welcome+to+my+profile!" alt="Typing SVG" />
 
 </div>
 
@@ -17,6 +17,9 @@
 
 <!-- 使う技術に合わせて自由に追加/削除してください。バッジは https://shields.io で作れます -->
 <p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/SkyPilot-3B82F6?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
