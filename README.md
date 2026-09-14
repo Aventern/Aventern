@@ -40,9 +40,9 @@
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Aventern/Aventern/output/github-snake.svg" />
 </picture>
 
-<!--
+
 おまけ: プロフィール閲覧数カウンター(欲しければコメントを外す)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aventern&color=blueviolet&style=flat-square" />
 </p>
--->
+
