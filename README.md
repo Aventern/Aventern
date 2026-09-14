@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- タイピングアニメーションのヘッダー -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&color=7AA2F7&lines=anchovy%40sfc%3A~%24+Hi%2C+I'm+Anchovy+%F0%9F%91%8B;anchovy%40wide%3A~%24+welcome+to+my+profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&color=7AA2F7&lines=anchovy%40wide%3A~%24+Hi%2C+I'm+Anchovy+%F0%9F%91%8B;anchovy%40wide%3A~%24+welcome+to+my+profile!" alt="Typing SVG" />
 
 </div>
 
