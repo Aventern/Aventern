@@ -9,9 +9,9 @@
 
 - 🎓 Student at Keio University
 - 🏠 Running a homelab with Proxmox
-- 🌱 Currently learning: <!-- 学んでいることを書く -->
-- 💬 Ask me about: <!-- 得意なこと -->
-- 📫 Reach me: <!-- SNSや連絡先(任意) -->
+- 🌱 Currently learning: ML infrastructure with **SkyPilot** & **Kubernetes**
+- 💬 Ask me about: **self-hosting** — running your own services on your own hardware
+- 📫 Reach me: [anchovy@sfc.wide.ad.jp](mailto:anchovy@sfc.wide.ad.jp)
 
 ## 🛠️ Tech Stack
 
